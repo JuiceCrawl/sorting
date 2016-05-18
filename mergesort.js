@@ -13,8 +13,6 @@ function merge(arr1, arr2){
   var arr1Count = 0;
   var arr2Count = 0;
 
-
-
 while(arr1Count < arr1.length || arr2Count < arr2.length){
   
   console.log(arr2.slice(arr2Count))
